@@ -16,3 +16,9 @@
 ## 最終課題
 - 内容：4つのデータセットから1つ選択し、事業提案をする課題
 - 選択したデータセット：時系列解析が必要なデータセット
+
+## 実装
+- 言語：
+  <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic">
+- 統合開発環境：
+  <img src="https://img.shields.io/badge/-Colab-F9AB00.svg?logo=google%20colab&style=plastic">
