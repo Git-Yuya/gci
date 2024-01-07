@@ -1,11 +1,18 @@
 # 東京大学グローバル消費インテリジェンス寄付講座 (Global Consumer Intelligence; GCI)
-　2023年、大学4年生の時に、[GCI 2023 Winter](https://gci2.t.u-tokyo.ac.jp/archives/course/gci-2023-winter)を受講した。
+　2023年、大学4年生の時に、[GCI 2023 Winter](https://gci2.t.u-tokyo.ac.jp/archives/course/gci-2023-winter)を受講した。GCIは、あらゆる分野で武器となるデータの解析・分析スキルを身につけ、一人前のデータサイエンティストとして活躍することを目指す講座である。GCIの講義を通して、Numpy、Pandas、Matplotlib、教師あり学習、教師なし学習、SQL、モデルの検証方法とチューニング方法、特徴量エンジニアリング、マーケティング基礎・応用を学んだ。また、コンペや最終課題では、講義を通して学んだことを生かし、自らの力でデータ分析し機械学習モデルを構築した。
 
-## 参加人数
+## コンペ1
+- 内容：Kaggleの[Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic)のデータを用いて、タイタニック号乗船者の生死を予測する課題
+- 順位：8位/1360人
+- スコア：0.82535
+- モデル：ランダムフォレスト
 
-## コンペ
-### コンペ1
-
-### コンペ2
+## コンペ2
+- 内容：Kaggleの[Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk)の一部のデータを用いて、債務不履行リスクを予測する課題
+- 順位：16位/1000人
+- スコア：0.76088
+- モデル：LightGBM
 
 ## 最終課題
+- 内容：4つのデータセットから1つ選択し、事業提案をする課題
+- 選択したデータセット：時系列解析が必要なデータセット
