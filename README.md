@@ -9,7 +9,7 @@
 
 ## コンペ2
 - 内容：Kaggleの[Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk)の一部のデータを用いて、債務不履行リスクを予測する課題
-- 順位：16位/1000人
+- 順位：9位/1085人
 - スコア：0.76088
 - モデル：LightGBM
 
