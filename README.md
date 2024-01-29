@@ -20,5 +20,7 @@
 ## 実装
 - 言語：
   <img src="https://img.shields.io/badge/-Python-3776AB.svg?logo=python&style=plastic">
+- 機械学習ライブラリ：
+  <img src="https://img.shields.io/badge/-scikit%E2%80%90learn-F7931E.svg?logo=scikitlearn&style=plastic">
 - 統合開発環境：
   <img src="https://img.shields.io/badge/-Colab-F9AB00.svg?logo=google%20colab&style=plastic">
